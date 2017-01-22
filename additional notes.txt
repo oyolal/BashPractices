@@ -1,0 +1,3 @@
+-eq  -->  Equals
+-gt  -->  Greater than
+-lt  -->  Less than
