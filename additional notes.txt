@@ -5,3 +5,12 @@
 -ge  -->  Greater or equal
 -z   -->  Unsetting Varible
 
+
+grep flags
+
+-i --> specifies a case-insensitive search
+-l --> lists files that contains what you are looking for
+-w --> which matches whole words only
+-C --> around matching word
+-B3 --> 3 lines before matching word
+-A2 --> 2 lines after matching word
