@@ -10,8 +10,8 @@ do
 	echo "I do like $fruit"
 done
 echo "Nice choices"
-echo "Let's make a salat"
+echo "Let's make a salad"
 
-#   Reason I have entered "fruitsyouentered" this varible so long is because
+#   Reason I have entered "fruitsyouentered" this variable so long is because
 #you may confuse between $fruit $fruitsyouentered between these. long one is
-#the list that we are iterating other one is basically 'i' iterater.
+#the list that we are iterating other one is basically 'i' iterator.

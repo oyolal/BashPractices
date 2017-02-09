@@ -6,5 +6,5 @@ echo "Hello $firstname. How is $lastname family?"
 
 echo "Variables:"
 
-#here we are getting the varibles that has 'name' inside and giving the value
+#here we are getting the variables that has 'name' inside and echos the value
 set|grep "name="
