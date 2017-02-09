@@ -1,4 +1,7 @@
+if statement []
+
 -eq  -->  Equals
+-ne  -->  Not equal
 -gt  -->  Greater than
 -lt  -->  Less than
 -le  -->  Less or equal
@@ -14,3 +17,7 @@ grep flags
 -C --> around matching word
 -B3 --> 3 lines before matching word
 -A2 --> 2 lines after matching word
+
+read flags
+
+-p  --> assigns received value to the variable // check until.sh to see example

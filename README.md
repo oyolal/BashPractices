@@ -1,4 +1,2 @@
 # BashPractices
-In this repository I will share my practices with Bash
-
-I will add comments after finishing them all 
+In this repository I have shared my practices with Bash and notes
